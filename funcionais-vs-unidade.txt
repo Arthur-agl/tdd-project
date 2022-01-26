@@ -1,0 +1,8 @@
+ -- DIFERENÇAS ENTRE TESTES FUNCIONAIS E TESTES DE UNIDADE --
+
+ > Testes de unidade são visam verificar o comportamento de pequenas funções e métodos do sistema.
+   Já os testes funcionais visam verificar o comportamento de uma funcionalidade completa
+   do sistema, que pode envolver vários métodos em conjunto.
+
+> Testes de unidade são pequenos, rápidos de serem executados e mais resistentes a falhas.
+  Já os testes funcionais são grandes, custosos e mais sensíveis a falhas.
