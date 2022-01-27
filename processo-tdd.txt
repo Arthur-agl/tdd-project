@@ -1,0 +1,10 @@
+-- TDD COM TESTES FUNCIONAIS E TESTES DE UNIDADE
+
+> O processo de TDD apresentado na figura é uma versão que inclui testes funcionais e de unidade.
+  Nesse processo, o desenvolvedor inicia um ciclo escrevendo um teste funcional, roda o teste  e
+  verifica se o teste passou. Quando o teste passa e o código não precisa ser refatorado, o ciclo
+  se repete com outro teste funcional sendo escrito.
+
+  Sempre que o teste funcional não passa ou precisa ser refatorado, entra-se num outro ciclo, o
+  ciclo de "minimal code". Este ciclo consiste em fazer testes de unidade, escrever código em
+  pequenos incrementos e refatorar em pequenos passos.
